@@ -1,0 +1,30 @@
+
+
+p{
+font-size: 24px;
+    font-family: "coffee_fills"
+}
+    
+
+
+
+@font-face{
+    font-family: "Coffee_fills";
+    src: url(../assets/font/coffee_fills/Coffee\ Fills.otf);
+    src: url(../assets/font/coffee_fills/Coffee\ Fills.ttf);
+}
+
+
+    
+.googlefont{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+  
+
+    
+
+
+   
